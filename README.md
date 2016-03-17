@@ -1,7 +1,8 @@
 docker-hello-world
 ==================
 
-[![Deploy to Tutum](https://s.tutum.co/deploy-to-tutum.svg)](https://dashboard.tutum.co/stack/deploy/)
+**This image will be deprecated soon. Please use `dockercloud/hello-world` instead:**
+https://hub.docker.com/r/dockercloud/hello-world/
 
 Sample docker image to test docker deployments
 
